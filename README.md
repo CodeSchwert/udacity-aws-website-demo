@@ -2,6 +2,8 @@
 
 Static website and resources for Udacity teaching demo.
 
+The hosted demo website can be found here: http://codeschwert-udacity-demo.s3-website-ap-southeast-2.amazonaws.com/
+
 ## Globe Website - `webgl-globe`
 
 The Globe static webpage in the `/public` folder is a modified Google Chrome experiment created by the Google Data Arts Team. The original code can be found here: 
